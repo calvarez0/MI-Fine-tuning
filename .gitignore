@@ -9,3 +9,9 @@ mi_model_output_*/**
 # Ignore other potentially large output directories
 __pycache__/
 *.pyc
+
+!mi_model_output_20250724_162731/adapter_config.json
+!mi_model_output_20250724_162731/tokenizer_config.json
+!mi_model_output_20250724_162731/vocab.json
+!mi_model_output_20250724_162731/README.md
+!mi_model_output_20250724_162731/special_tokens_map.json
