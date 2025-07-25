@@ -1,0 +1,12 @@
+# Ignore model outputs and checkpoints
+mi_model_output_*/**
+*.safetensors
+*.pt
+*.bin
+*.json
+*.log
+*.tfevents.*
+
+# Ignore other potentially large output directories
+__pycache__/
+*.pyc
